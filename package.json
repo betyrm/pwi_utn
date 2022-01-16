@@ -1,0 +1,19 @@
+{
+  "name": "practica_backend",
+  "version": "1.0.0",
+  "description": "Inicio aplicación backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Bety",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.2.0",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7"
+  }
+}
