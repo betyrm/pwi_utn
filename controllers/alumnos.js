@@ -41,6 +41,7 @@ const actualizar =  ((req,res) => {
     
 }); 
 
+
 module.exports = {
     bienvenida, 
     nomina,
